@@ -20,8 +20,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@supabase/supabase-js": "github:supabase/supabase-js",
-		"bcryptjs": "^2.4.3",
-		"supabase": "^1.88.0"
+		"@supabase/supabase-js": "^2.33.1",
+		"bcryptjs": "^2.4.3"
 	}
 }
